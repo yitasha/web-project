@@ -23,7 +23,22 @@ Managers reconcile customer payments against invoices, and can issue late paymen
 in being paid. After two late penalties the third time the unpaid invoice is handed over to a debt collector, and the customer account
 is suspended.  
 
-##### Homepage  
+#### Homepage  
 ![home page](/img/home.JPG)
+
+#### Register  
+![home page](/img/register.JPG)  
+
+#### Login  
+![home page](/img/login.JPG)  
+
+#### Customer  
+![home page](/img/customer.JPG)  
+
+#### Admin  
+![home page](/img/admins.JPG)  
+
+#### Orders  
+![home page](/img/orders.JPG)  
 
 
