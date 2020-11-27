@@ -1,0 +1,160 @@
+
+div.wrap{
+		width:1000px;
+
+		margin:auto;
+		background-color:light grey;
+		
+}
+
+.jumbotron{
+	text-align: center;
+	color:#FF1493;
+}
+
+
+nav{
+	height:35px;
+	border-style:groove;
+	border-width:3px;
+}
+
+nav a:link
+{
+	text-decoration:none;
+	font-style:bold;
+	margin:10px;
+	
+}
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.footername
+{
+	margin:20px 0px 0px 0px;
+}
+
+.galleryimg
+{
+	margin:10px 22px 10px 22px;
+	border:5px solid #ddd;
+	
+}
+
+main{
+		border-width:20px ;
+		border-color:#e1dbd0;
+		border-style:inset;
+		text-align: center;
+		min-height:800px;
+}
+
+#customerParent{
+	border-style: ridge;
+	border-width: 5px;
+	border-color: red;
+	overflow:hidden;
+	text-align: center;
+}
+#customerLeft{
+	float: left;
+	overflow:hidden;
+	width:400px;
+	border-right: solid red 5px;
+	border-spacing: 10px;
+	padding:0px 10px 1px 10px;
+}
+
+#customerRight{
+	float: right;
+	overflow:hidden;
+	width:500px;
+	border-spacing: 10px;
+	padding:0px 40px 0px 0px;
+}
+
+#ordersParent{
+	border-style: ridge;
+	border-width: 5px;
+	border-color: red;
+	overflow:hidden;
+	text-align: center;
+}
+#ordersLeft{
+	float: left;
+	overflow:hidden;
+	min-height: 250px;
+	width:400px;
+	border-right: solid red 5px;
+	border-spacing: 10px;
+	padding:0px 10px 1px 10px;
+}
+
+#ordersRight{
+	float: right;
+	overflow:hidden;
+	width:500px;
+	border-spacing: 10px;
+	padding:0px 40px 0px 0px;
+}
+
+main form{
+	text-align: center;
+}
+
+
+main h1{
+	text-align:center;
+}
+
+p
+{	
+	text-align:center;
+	padding:5px;
+	background-color:#e1dbd0;
+	border-radius:15px;
+	font-family:times new roman;
+
+}
+
+
+input[type=text]{
+	padding:1px 2px;
+	margin:4px;
+	width:80%;
+	height:28px;
+
+}
+
+input[type=password]{
+	padding:1px 2px;
+	margin:4px;
+	width:80%;
+	height:28px;
+}
+
+select {
+	padding:5px 2px;
+	margin:4px;
+	width:80%;
+	height:28px;
+}
+
+
+
+
+footer{
+	margin-top:20px;
+	border-top:3px solid black;
+	padding-top:20px;
+}
+footer a:link{
+	margin:10px;
+}
+
+
